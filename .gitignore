@@ -72,3 +72,8 @@ SECURITY-CHECKLIST.md
 *-PRD.md
 BRD.md
 PRD.md
+
+# Impeccable design docs (internal — stay local)
+PRODUCT.md
+DESIGN.md
+.impeccable/
